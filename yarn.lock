@@ -229,6 +229,13 @@
   "resolved" "https://registry.npmjs.org/@types/prop-types/-/prop-types-15.7.11.tgz"
   "version" "15.7.11"
 
+"@types/react-beautiful-dnd@^13.1.8":
+  "integrity" "sha512-E3TyFsro9pQuK4r8S/OL6G99eq7p8v29sX0PM7oT8Z+PJfZvSQTx4zTQbUJ+QZXioAF0e7TGBEcA1XhYhCweyQ=="
+  "resolved" "https://registry.npmjs.org/@types/react-beautiful-dnd/-/react-beautiful-dnd-13.1.8.tgz"
+  "version" "13.1.8"
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-dom@^18.2.19":
   "integrity" "sha512-aZvQL6uUbIJpjZk4U8JZGbau9KDeAwMfmhyWorxgBkqDIEf6ROjRozcmPIicqsUwPUjbkDfHKgGee1Lq65APcA=="
   "resolved" "https://registry.npmjs.org/@types/react-dom/-/react-dom-18.2.19.tgz"
@@ -269,6 +276,11 @@
   "integrity" "sha512-n4sx2bqL0mW1tvDf/loQ+aMX7GQD3lc3fkCMC55VFNDu/vBOabO+LTIeXKM14xK0ppk5TUGcWRjiSpIlUpghKw=="
   "resolved" "https://registry.npmjs.org/@types/stylis/-/stylis-4.2.0.tgz"
   "version" "4.2.0"
+
+"@types/uuid@^9.0.8":
+  "integrity" "sha512-jg+97EGIcY9AGHJJRaaPVgetKDsrTgbRjQ5Msgjh/DQKEFl0DtyRr/VCOyD1T2R1MNeWPK/u7JoGhlDZnKBAfA=="
+  "resolved" "https://registry.npmjs.org/@types/uuid/-/uuid-9.0.8.tgz"
+  "version" "9.0.8"
 
 "@typescript-eslint/eslint-plugin@^7.0.2":
   "integrity" "sha512-j6vT/kCulhG5wBmGtstKeiVr1rdXE4nk+DT1k6trYkwlrvW9eOF5ZbgKnd/YR6PcM4uTEXa0h6Fcvf6X7Dxl0w=="
